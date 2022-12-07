@@ -1,3 +1,5 @@
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I am Ahmad!
+
 # 💫 About Me:
 A software Engineer currently working in Gateway for ICT Solutions as a backend developer and an iOS learner.
 
