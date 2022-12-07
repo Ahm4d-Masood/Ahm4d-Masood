@@ -17,9 +17,6 @@ A software Engineer currently working in Gateway for ICT Solutions as a backend 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahm4d-Masood&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahm4d-Masood&icon=5&color=0)](https://visitcount.itsvg.in)
 
