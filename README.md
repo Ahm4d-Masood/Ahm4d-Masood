@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in Gateway for ICT Solutions as a backend developrt
+A software Engineer currently working in Gateway for ICT Solutions as a backend developer and an iOS learner.
 
 
 ## 🌐 Socials:
