@@ -15,8 +15,3 @@ A software Engineer currently working in Gateway for ICT Solutions as a iOS deve
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahm4d-Masood&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ahm4d-Masood&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
