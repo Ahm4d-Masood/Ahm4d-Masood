@@ -1,7 +1,10 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I am Ahmad!
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, What's up?
+
+<p align="left">My name is Ahmad and I'm a Software Engineer, from Kurdistan, Iraq</p>
 
 # 💫 About Me:
 A software Engineer currently working in Gateway for ICT Solutions as a iOS developer.
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently exploring more about iOS development
 
 
 ## 🌐 Socials:
