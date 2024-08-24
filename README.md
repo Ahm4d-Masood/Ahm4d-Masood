@@ -3,7 +3,7 @@
 <p align="left">My name is Ahmad and I'm a Software Engineer, from Kurdistan, Iraq</p>
 
 # About Me:
-A Software Engineer currently working in Gateway for ICT Solutions as a iOS developer.
+A Software Engineer currently working in Gateway for ICT Solutions as iOS developer.
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently exploring more about iOS development
 
 
