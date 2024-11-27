@@ -18,7 +18,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -77,4 +77,6 @@
 </div>  
 
 # GitHub Stats:
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahm4d-Masood&theme=vision-friendly-dark&hide_border=false)<br/>
+</div>
