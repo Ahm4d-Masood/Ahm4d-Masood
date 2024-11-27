@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to Swift, Flutter, and Laravel  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I’ve lost count of how many times I’ve rewatched Harry Potter!
   
 
 <br/>  
