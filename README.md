@@ -25,7 +25,7 @@
 ### Mobile  
 <div align="center">  
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://developer.apple.com/assets/elements/icons/swift-playgrounds/swift-playgrounds-96x96.png" alt="Swift" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="Flutter" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
