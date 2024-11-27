@@ -76,7 +76,7 @@
 </a>  
 </div>  
 
-# GitHub Stats:
 <div align="center">
+# GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahm4d-Masood&theme=vision-friendly-dark&hide_border=false)<br/>
 </div>
