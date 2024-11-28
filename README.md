@@ -1,14 +1,14 @@
 
-### <div align="center">I'm Ahmad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, a Software Engineer 👨‍💻 working as iOS Developer at  Gateway for ICT Solution 🚀</div>  
+### <div align="center">I'm Ahmad Masood <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, a Software Engineer 👨‍💻 working as iOS Developer at  Gateway for ICT Solution. 🚀</div>  
   
 
-- 🌱 And currently I'm MSc. Student and doing research in Machine Learning field  
+- 🌱 I’m also pursuing my MSc in Software Engineering, with research focused on Machine Learning.
   
 
-- 🔭 I’m currently working on [FIB Project](https://fib.iq)  
+- 🔭 I’m currently working on [FIB Project](https://fib.iq).
   
 
-- ❓ Ask me about anything related to Swift, Flutter, and Laravel  
+- ❓ Ask me about anything related to Swift, Flutter, and Laravel.  
   
 
 - ⚡ Fun fact: I’ve lost count of how many times I’ve rewatched Harry Potter!
