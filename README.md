@@ -1,4 +1,3 @@
-c
 ### <div align="center">I'm Ahmad Masood <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, a Software Engineer 🚀 currently an iOS Developer at Gateway for ICT Solutions.</div>  
   
 
