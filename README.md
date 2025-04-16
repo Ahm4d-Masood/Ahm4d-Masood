@@ -42,9 +42,6 @@
   <a href="https://linkedin.com/in/ahmad-masood-6a8115202">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/ahmad.masood.99">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
   <a href="https://instagram.com/ahmad._.masood">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
