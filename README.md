@@ -27,7 +27,13 @@
 <br/>  
 
 
-## Connect with me  
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 <div align="center">
   <a href="https://linkedin.com/in/ahmad-masood-6a8115202">
     <img src="https://skillicons.dev/icons?i=linkedin" />
