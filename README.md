@@ -29,11 +29,15 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/ahmad-masood-6a8115202" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.facebook.com/ahmad.masood.99" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ahmad._.masood" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/ahmad-masood-6a8115202">
+    <img src="https://skillicons.dev/icons?linkedin&perline=14" />
+  </a>
+  <a href="https://www.facebook.com/ahmad.masood.99">
+    <img src="https://skillicons.dev/icons?facebook&perline=14" />
+  </a>
+  <a href="https://instagram.com/ahmad._.masood">
+    <img src="https://skillicons.dev/icons?instagram&perline=14" />
+  </a>
 </div>  
 
 # GitHub Stats:
