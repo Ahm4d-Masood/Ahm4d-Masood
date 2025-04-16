@@ -20,7 +20,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,laravel,php,py,git,github,css,bootstrap,github,html,java,js,mysql,postman,anaconda&perline=5" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,laravel,php,py,git,github,css,bootstrap,github,html,java,js,mysql,sqlite,postman,anaconda&perline=5" />
   </a>
 </p>
 
