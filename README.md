@@ -15,15 +15,19 @@
 
 <br/>  
 
-<div align="center">
-## My Skill Set  
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Some of Techs That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,flutter,dart,laravel,php,py,tensorflow,sklearn,git,github,css,bootstrap,github,html,java,js,mysql,sqlite,postman,anaconda&perline=5" />
   </a>
 </p>
-</div>
 <br/>  
 
 
