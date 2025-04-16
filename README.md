@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,py,tensorflow,sklearn,anaconda,php,laravel,html,css,bootstrap,js,mysql,sqlite,postman,git,github,java&perline=4" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,androidstudio,py,tensorflow,sklearn,anaconda,php,laravel,html,css,bootstrap,js,mysql,sqlite,postman,git,github,java&perline=4" />
   </a>
 </p>
 <br/>  
