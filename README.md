@@ -15,7 +15,7 @@
 
 <br/>  
 
-
+<div align="center">
 ## My Skill Set  
 <!--tech stack icons-->
 <p align="center">
@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=swift,flutter,dart,laravel,php,py,tensorflow,sklearn,git,github,css,bootstrap,github,html,java,js,mysql,sqlite,postman,anaconda&perline=5" />
   </a>
 </p>
-
+</div>
 <br/>  
 
 
