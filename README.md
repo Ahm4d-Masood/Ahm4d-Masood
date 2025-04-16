@@ -49,6 +49,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm4d-Masood&layout=compact&langs_count=6&theme=radical)
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahm4d-Masood&theme=vision-friendly-dark&hide_border=false)<br/>
